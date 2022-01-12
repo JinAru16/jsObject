@@ -8,8 +8,8 @@ function User(email, birthdate) {
 }
 
 /*
-construct function에서의 this의미 : 새로 생성되는 새로운 객체를 가리킴
-객체정의를 위해 만들어진 construc function의 이름은 대문자로 지정하자
+constructor function에서의 this의미 : 새로 생성되는 새로운 객체를 가리킴
+객체정의를 위해 만들어진 constructor function의 이름은 대문자로 지정하자
 */
 
 
